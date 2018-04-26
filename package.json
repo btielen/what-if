@@ -2,6 +2,7 @@
   "name": "what-if",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://btielen.github.io/what-if",
   "dependencies": {
     "accounting": "^0.4.1",
     "prop-types": "^15.6.1",

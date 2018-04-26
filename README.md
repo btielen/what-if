@@ -1,3 +1,3 @@
-# What if invested in cryptocurrencies
+# What if I invested in cryptocurrencies
 
-See demo on 
+See demo on [http://btielen.github.io/what-if](http://btielen.github.io/what-if)
